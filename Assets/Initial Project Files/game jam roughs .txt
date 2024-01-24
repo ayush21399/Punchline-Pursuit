@@ -1,0 +1,26 @@
+IMP
+ReWritte the whole player walking code.
+
+Scenario
+
+
+dad joke field
+
+unity 3d text
+https://docs.unity3d.com/2019.3/Documentation/Manual/class-TextMesh.html
+
+https://sketchfab.com/3d-models/low-poly-character-swordsman-24aae01ca3a64a8c9dfc232840c2542b
+https://sketchfab.com/3d-models/skier-low-poly-character-13ae2a85b3af43ab8b1e984c8f8c87e2
+https://sketchfab.com/3d-models/stylized-low-poly-girl-character-c77426c4db8b459bb8ecb2afed6a2fbc
+https://sketchfab.com/3d-models/low-poly-character-c4f189c3f5c04dd49ae41424cd1074a0
+https://sketchfab.com/3d-models/low-poly-ninja-54783c019894430bb163e02fff915fe9
+https://sketchfab.com/3d-models/character-low-poly-pack-45bf6857c9c145fd87c173c8188a10b3
+https://sketchfab.com/3d-models/low-poly-samurai-bb59b046d8d74ef589eee02b0fac03f1
+
+CREDITS
+https://sketchfab.com/3d-models/monk-warrior-da0fc92a558240f7bf7602093b2d1946
+"Monk Warrior" (https://skfb.ly/onCRI) by Stuart Whittaker is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+https://sketchfab.com/3d-models/demon-ranged-animated-game-ready-ac6ac6337e9647a6beb39db837b3733d
+"Demon Ranged - Animated & Game Ready" (https://skfb.ly/oJYEp) by Tiago Barracha is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+https://sketchfab.com/3d-models/stylized-low-poly-animated-character-a011a38d65274acf8008939b7d412cb9#download
+"Stylized Low poly Animated Character" (https://skfb.ly/orADo) by Karthik Naidu is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
